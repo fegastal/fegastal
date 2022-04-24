@@ -1,5 +1,5 @@
-<h3 align="center">Hi there! ✨🚀</h3>
-<h3 align="center">I'm Fernanda Gastal. </h3>
+<h3 align="center">Hi there ✨🚀</h3>
+<h3 align="center">I'm Fernanda Gastal! </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/fernandagastal/">Linkedin</a> •
   <a href="https://www.instagram.com/fegastal/">Instagram</a>
