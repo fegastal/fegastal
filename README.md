@@ -1,9 +1,5 @@
 <h3 align="center">Hi there ✨🚀</h3>
 <h3 align="center">I'm Fernanda Gastal! </h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/fernandagastal/">Linkedin</a> •
-  <a href="https://www.instagram.com/fegastal/">Instagram</a>
-</p>
 
 I'm an architect, urbanist and programmer! ✨
 I'm also a student at 42 São Paulo and at Lisbon Higher Institute of Advanced Technologies and I'm currently focused on Python, Java and MySQL.
@@ -18,8 +14,11 @@ I'm also a student at 42 São Paulo and at Lisbon Higher Institute of Advanced T
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fegastal&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fegastal&langs_count=5&theme=tokyonight&exclude_repo=translation-noahMakefile)]()
+<div align="center">
+  <a href="https://github.com/fegastal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fegastal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegastal&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
