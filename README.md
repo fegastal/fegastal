@@ -18,6 +18,11 @@ I'm also a student at 42 São Paulo and at Lisbon Higher Institute of Advanced T
 
 ---
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fegastal&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fegastal&langs_count=5&theme=tokyonight&exclude_repo=translation-noahMakefile)]()
+
+---
+
 <!--
 **Yaten/Yaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
