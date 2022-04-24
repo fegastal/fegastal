@@ -18,8 +18,6 @@ I'm also a student at 42 São Paulo and at Lisbon Higher Institute of Advanced T
 
 ---
 
-> *No matter where you go, everyone’s connected. – Lain Iwakura*
-
 <!--
 **Yaten/Yaten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
