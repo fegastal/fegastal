@@ -2,7 +2,7 @@
 <h3 align="center">I'm Fernanda Gastal! </h3>
 
 I'm an architect, urbanist and programmer! ✨
-I'm also a student at 42 São Paulo 🇧🇷 and at Lisbon Higher Institute of Advanced Technologies 🇵🇹. I'm currently focused on Python, Java and MySQL.
+I'm also a student at 42 São Paulo 🇧🇷 and at Lisbon Higher Institute of Advanced Technologies 🇵🇹.
 
 ---
 
