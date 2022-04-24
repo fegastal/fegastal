@@ -1,8 +1,7 @@
 <h3 align="center">Hi there ✨🚀</h3>
 <h3 align="center">I'm Fernanda Gastal! </h3>
 
-I'm an architect, urbanist and programmer! ✨
-I'm also a student at 42 São Paulo 🇧🇷 and at Lisbon Higher Institute of Advanced Technologies 🇵🇹.
+I'm an architect, urbanist and I'm also a student at 42 São Paulo 🇧🇷 and at Lisbon Higher Institute of Advanced Technologies 🇵🇹.
 
 ---
 
