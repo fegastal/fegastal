@@ -1,7 +1,7 @@
 <h3 align="center">Hi there ✨🚀</h3>
 <h3 align="center">I'm Fernanda Gastal! </h3>
 
-- Architect and Urban Planner by the [University of São Paulo](https://www.fau.usp.br/) (USP - Brazil) and [University of Lisbon](https://www.fa.ulisboa.pt/index.php/pt/) (ULisboa - Portugal)
+- Architect and Urban Planner by the [University of São Paulo](https://www.fau.usp.br/) (USP - Brazil) and [University of Lisbon](https://www.fa.ulisboa.pt/index.php/pt/) (ULisboa - Portugal);
 
 - In the third year of graduation in the area of Civil Construction, I had the first contact with algorithms. Completely in love with the technology area since 2019, I could develop the ability to relate the knowledge obtained in both areas, from the ability to identify and solve problems. 
 
