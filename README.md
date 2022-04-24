@@ -10,7 +10,6 @@ I'm also a student at 42 São Paulo and at Lisbon Higher Institute of Advanced T
 - ⚙️ I use daily:  `.c` | `.py` | `.java`
 - 🌻 I'm currently learning about C for the projects done at School 42, however I study Python, Java and MySQL for the development of personal projects!
 - 🌞 Fun fact: I'm programming since 2019, but I have a degree in architecture and urbanism from [University of São Paulo](https://www.fau.usp.br/) (USP - Brazil) and [University of Lisbon](https://www.fa.ulisboa.pt/index.php/pt/) (ULisboa - Portugal)
-- 📫 Reach me: fernanda.gastal.figueiredo@usp.br
 
 ---
 
