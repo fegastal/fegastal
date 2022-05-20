@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fegastal&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegastal&layout=compact&theme=radical"/>
   <a href="https://github.com/JaeSeoKim/badge42">
-  <img height="180em" src="https://badge42.vercel.app/api/v2/cl1qyakyt025609ldnqbbyw6x/stats?cursusId=21&coalitionId=undefined"/>
+  <img height="180em" src="https://badge42.vercel.app/api/v2/cl3elz0ep004909mqb96lydxa/stats?cursusId=60&coalitionId=110"/>
 </div>
                                                                                                                                
 ---
