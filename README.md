@@ -10,7 +10,6 @@
 - 💻 I'm  studying Software Engineering at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) and Mobile Development at [ISTEC](http://www.istec.pt/index.php/ctesp-desenvolvimento-para-dispositivos-moveis/)
 - ⚙️ I use daily:  `.c` | `.py` | `.java`
 - 🌻 I'm currently learning about C for the projects done at School 42, however I study Python, Java and MySQL for the development of personal projects!
-- 🧐 I'm currently looking for an opportunity in the job market too
 - 🤝 Always happy to help, especially if you are trying something new!
 
 ---
