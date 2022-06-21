@@ -17,7 +17,7 @@
 <div align="center">
   <a href="https://github.com/fegastal">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fegastal&show_icons=true&theme=radical"/>
-  <img height="170em" src="https://github-readme-stats.vercfel.app/api/top-langs/?username=fegastal&layout=compact&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegastal&layout=compact&theme=radical"/>
 </div>
                                                                                                                                
 
