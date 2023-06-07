@@ -9,6 +9,7 @@
 
 - 💻 I'm  studying Software Engineering at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) and I'm a postgraduate student in Data Analytics at [FIAP](https://postech.fiap.com.br/curso/data-analytics/);
 - 💼 I work as a Junior Software Engineer in the "Labs" project at [École 42](https://www.42.fr/) in partnership with [Itaú Unibanco](https://www.itau.com.br/);
+- ☁️ I'm currently trying to get certified in AWS;
 - ⚙️ I use daily:  `.c` | `.py`;
 - 🥋 My hobby is to be a white belt in jiu-jitsu. Oss!
 - 🤝 Always happy to help!
