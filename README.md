@@ -7,9 +7,10 @@
 
 ---
 
-- 💻 I'm  studying Software Engineering at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) and Mobile Development at [ISTEC](http://www.istec.pt/index.php/ctesp-desenvolvimento-para-dispositivos-moveis/);
+- 💻 I'm  studying Software Engineering at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) and I'm a postgraduate student in Data Analysis at [FIAP](https://postech.fiap.com.br/curso/data-analytics/);
+- 💼 I work as a Junior Software Engineer in the"Labs" project at [École 42](https://www.42.fr/) in partnership with [Itaú Unibanco](https://www.itau.com.br/);
 - ⚙️ I use daily:  `.c` | `.py` | `.java`;
-- 🌻 I'm currently learning about C for the projects done at School 42, however I study Python, Java and MySQL for the development of personal projects;
+- 🥋 I'm a white belt and I'm in love with jiu-jitsu;
 - 🤝 Always happy to help!
 
 ---
