@@ -10,7 +10,7 @@
 - 💻 I'm  studying Software Engineering at [École 42](https://www.42.fr/) - [São Paulo](https://www.42sp.org.br/) and I'm a postgraduate student in Data Analytics at [FIAP](https://postech.fiap.com.br/curso/data-analytics/);
 - 💼 I work as a Junior Software Engineer in the"Labs" project at [École 42](https://www.42.fr/) in partnership with [Itaú Unibanco](https://www.itau.com.br/);
 - ⚙️ I use daily:  `.c` | `.py`;
-- 🥋 I'm a white belt and I'm in love with jiu-jitsu;
+- 🥋 My hobby is to be a white belt and I'm in love with jiu-jitsu. Oss!
 - 🤝 Always happy to help!
 
 ---
